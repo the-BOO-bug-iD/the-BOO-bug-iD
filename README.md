@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋
+# I'm totally new to GitHub, just making a profile for practice :D
 
 <!--
 **the-BOO-bug-iD/the-BOO-bug-iD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
